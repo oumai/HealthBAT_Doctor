@@ -1,0 +1,16 @@
+//
+//  BATDoctorStudioConsultingRoomView.h
+//  HealthBAT_Doctor
+//
+//  Created by cjl on 2017/5/11.
+//  Copyright © 2017年 KM. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "DLTabedSlideView.h"
+
+@interface BATDoctorStudioConsultingRoomView : UIView
+
+@property (nonatomic,strong) DLTabedSlideView *topSlideView;
+
+@end

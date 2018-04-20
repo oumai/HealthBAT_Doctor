@@ -1,0 +1,32 @@
+//
+//  UtilsHeader.h
+//  HealthBAT_Pro
+//
+//  Created by KM on 16/8/152016.
+//  Copyright © 2016年 KMHealthCloud. All rights reserved.
+//
+
+#ifndef UtilsHeader_h
+#define UtilsHeader_h
+
+
+#import "UINavigationController+ShouldPopOnBackButton.h"
+
+#import "UIButton+CustomButton.h"
+#import "UILabel+CustomLabel.h"
+#import "UITextField+CustomTextField.h"
+#import "UIView+Border.h"
+#import "UIImage+ImageWithColor.h"
+
+#import "UIAlertView+BATBlock.h"
+#import "CommonMacro.h"
+#import "WeakDefine.h"
+#import "Singleton.h"//单例宏
+
+#import "HTTPTool.h"
+#import "HTTPToolLogger.h"
+
+#import "Tools.h"
+#import "BATUserPortrayTools.h"
+
+#endif /* UtilsHeader_h */
